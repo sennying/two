@@ -31,7 +31,7 @@
 
    这是我最喜欢的图片
 
-  ![Git](images/icon.png)
+  ![Git](../images/icon.png)
 
   时间是检验真理的唯一标准。--邓小平
 
